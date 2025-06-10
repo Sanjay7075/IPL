@@ -1,5 +1,5 @@
 # IPL
-📢 Day 7 of 30 - IPL Cricket Data Analysis 🏏
+📢IPL Cricket Data Analysis 🏏
 
 🔹 GitHub Repository: https://lnkd.in/gxrjTwx2
 
